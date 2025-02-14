@@ -24,3 +24,4 @@ for to, eq in eqs:
             ok = 1
     ans += ok * to
 print(ans)
+
